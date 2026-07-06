@@ -6,70 +6,59 @@
 
 ## 🚀 About Me
 
-🎓 B.Sc Computer Science with AI
-
-📍 Chennai, India
-
-📊 Passionate about Data Analytics
-
-🌱 Currently Learning:
-- SQL
-- Python
-- Power BI
-- Excel
-
-🎯 Looking for Data Analyst Opportunities
+- 🎓 B.Sc Computer Science with AI
+- 📍 Chennai, India
+- 📊 Passionate about Data Analytics
+- 🌱 Currently Learning SQL, Python, Power BI & Excel
+- 💼 Looking for Data Analyst Opportunities
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
 </p>
 
-Power BI • Excel • Data Visualization • Statistics
+<p align="center">
+SQL • Python • Power BI • Excel • Git • GitHub
+</p>
 
 ---
 
-## 📂 Featured Projects
+## 📂 Featured Project
 
-📌 SQL Employee Database
+### 📌 SQL Student Performance Analysis
 
-📌 Sales Data Analysis
+- 📊 Analyzed student performance dataset using SQL.
+- 🔍 Used SELECT, WHERE, GROUP BY, ORDER BY, HAVING and Aggregate Functions.
+- 📈 Extracted meaningful insights from student performance data.
+- 💡 Built to strengthen SQL and Data Analytics skills.
 
-📌 Power BI Dashboard
+🔗 Project Link:
+https://github.com/jeevabala0827-tech/SQL-STUDENT-PERFORMANCE-ANALYSIS
 
-📌 Netflix Data Analysis
-
-📌 HR Analytics
-
-(https://github.com/jeevabala0827-tech/SQL-STUDENT-PERFORMANCE-ANALYSIS)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeevabala0827-tech&show_icons=true&theme=radical&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeevabala0827-tech&layout=compact&theme=radical&cache_seconds=1800)
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=jeevabala0827-tech&theme=github-dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jeevabala0827-tech&theme=github-dark)](https://git.io/streak-stats)
 
 ---
 
 ## 📫 Connect With Me
 
-💼 LinkedIn: https://linkedin.com/in/jeevabala08
+💼 LinkedIn:
+https://linkedin.com/in/jeevabala08
 
-📧 Email: jeevabala0827@gmail.com
+📧 Email:
+jeevabala0827@gmail.com
 
 ---
 
 ⭐ Thanks for visiting my profile!
+
+
 
 
 
