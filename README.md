@@ -50,15 +50,15 @@ Power BI • Excel • Data Visualization • Statistics
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=jeevabala0827-tech&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeevabala0827-tech&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeevabala0827-tech&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeevabala0827-tech&layout=compact&theme=github_dark)
 
 ---
 
 ## 🔥 GitHub Streak
 
-![Streak](https://streak-stats.demolab.com?user=jeevabala0827-tech&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=jeevabala0827-tech&theme=github-dark)
 
 ---
 
