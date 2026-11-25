@@ -94,7 +94,7 @@ Turning raw data into meaningful insights through SQL, Power BI and Data Analyti
 
 🏅 HackerRank SQL (Basic) Skill Certification
 
-📚 Google Data Analytics Professional Certificate 
+🎓 Data Analytics Course – FITA Academy  
 
 ---
 
